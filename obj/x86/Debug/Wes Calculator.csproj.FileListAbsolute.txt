@@ -1,0 +1,13 @@
+C:\Documents and Settings\Dell d60\My Documents\Visual Studio 2010\Projects\understanding emunerations\Wes Calculator\Wes Calculator\bin\Debug\Wes Calculator.exe
+C:\Documents and Settings\Dell d60\My Documents\Visual Studio 2010\Projects\understanding emunerations\Wes Calculator\Wes Calculator\bin\Debug\Wes Calculator.pdb
+C:\Documents and Settings\Dell d60\My Documents\Visual Studio 2010\Projects\understanding emunerations\Wes Calculator\Wes Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dell d60\My Documents\Visual Studio 2010\Projects\understanding emunerations\Wes Calculator\Wes Calculator\obj\x86\Debug\Wes_Calculator.Form1.resources
+C:\Documents and Settings\Dell d60\My Documents\Visual Studio 2010\Projects\understanding emunerations\Wes Calculator\Wes Calculator\obj\x86\Debug\Wes_Calculator.Properties.Resources.resources
+C:\Documents and Settings\Dell d60\My Documents\Visual Studio 2010\Projects\understanding emunerations\Wes Calculator\Wes Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Dell d60\My Documents\Visual Studio 2010\Projects\understanding emunerations\Wes Calculator\Wes Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Dell d60\My Documents\Visual Studio 2010\Projects\understanding emunerations\Wes Calculator\Wes Calculator\obj\x86\Debug\Wes Calculator.exe
+C:\Documents and Settings\Dell d60\My Documents\Visual Studio 2010\Projects\understanding emunerations\Wes Calculator\Wes Calculator\obj\x86\Debug\Wes Calculator.pdb
+C:\Documents and Settings\Dell d60\My Documents\Visual Studio 2010\Projects\understanding emunerations\Wes Calculator\Wes Calculator\obj\x86\Debug\Wes_Calculator.Resource1.resources
+C:\Documents and Settings\Dell d60\My Documents\Visual Studio 2010\Projects\understanding emunerations\Wes Calculator\Wes Calculator\obj\x86\Debug\Wes_Calculator.Resource2.resources
+C:\Documents and Settings\Dell d60\My Documents\Visual Studio 2010\Projects\understanding emunerations\Wes Calculator\Wes Calculator\obj\x86\Debug\Wes_Calculator.Resource3.resources
+C:\Documents and Settings\Dell d60\My Documents\Visual Studio 2010\Projects\understanding emunerations\Wes Calculator\Wes Calculator\obj\x86\Debug\Wes_Calculator.Resource4.resources
